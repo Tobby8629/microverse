@@ -63,25 +63,17 @@ Hello microverse project is a experimental project to test my github knowledge
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
-  <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li>html</li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+  <ul>css</li>
   </ul>
 </details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
+
 
 <!-- Features -->
 
@@ -89,9 +81,9 @@ Hello microverse project is a experimental project to test my github knowledge
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **A header**
+- **A simple styling to header text**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,6 +104,10 @@ Hello microverse project is a experimental project to test my github knowledge
 > Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
+
+- Clone this repo
+- Change to the feature branch: git checkout Hello-Microverse
+- Open the index.html file in your browser.
 
 ### Prerequisites
 
@@ -134,7 +130,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/Tobby8629/microverse.git
 ```
 --->
 
@@ -202,17 +198,7 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -240,7 +226,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
